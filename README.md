@@ -5,7 +5,9 @@ https://github.com/MaricoCheung/wx-demo
 
 ## Directory
 
-MaricoCheung/todos
+[MaricoCheung/wx-todos ](https://github.com/MaricoCheung/wx-todos)- 任务清单
+
+[MaricoCheung/wx-musicPlayer ](https://github.com/MaricoCheung/wx-musicPlayer)- 音乐播放器
 
 ## Reference-doc
 
