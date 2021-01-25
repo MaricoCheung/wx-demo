@@ -1,5 +1,5 @@
 ## wx-demo
-some simple example meaning items to help understand the relevant language logic
+some simple meaning wechat mini program items
 
 https://github.com/MaricoCheung/wx-demo
 
@@ -7,7 +7,10 @@ https://github.com/MaricoCheung/wx-demo
 
 MaricoCheung/todos
 
+## Reference-doc
 
+- WeUI：https://weui.io/
+- 微信小程序官方开发文档：https://developers.weixin.qq.com/miniprogram/dev/framework/
 
 ## Contributing
 
