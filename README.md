@@ -9,6 +9,8 @@ https://github.com/MaricoCheung/wx-demo
 
 [MaricoCheung/wx-musicPlayer ](https://github.com/MaricoCheung/wx-musicPlayer)- 音乐播放器
 
+[MaricoCheung/wx-calculator](https://github.com/MaricoCheung/wx-calculator) - 简易计算器
+
 ## Reference-doc
 
 - WeUI：https://weui.io/
@@ -25,4 +27,4 @@ https://github.com/MaricoCheung/wx-demo
 
 ## License
 
-MIT  © 張郎
+[MIT](https://github.com/MaricoCheung/wx-demo/blob/main/LICENSE)  © [張郎](https://github.com/MaricoCheung)
